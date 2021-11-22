@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "519956042652",
+    "project_id": "news-app-c549e",
+    "storage_bucket": "news-app-c549e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519956042652:android:26988af54e048158f6ae59",
+        "android_client_info": {
+          "package_name": "com.matithemati.news_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519956042652-5oriqt1n539dcr2bsrbgurt060lo55us.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.matithemati.news_app",
+            "certificate_hash": "ee53f764b10fd32751314e16209b8e45a845039c"
+          }
+        },
+        {
+          "client_id": "519956042652-epcmr2h36q678vc42d0u3ppvgho32qbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAleGgh00UwYqTid3RFlVstz_PmahAU-XE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519956042652-epcmr2h36q678vc42d0u3ppvgho32qbo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>519956042652-u1gcgqmt6lrmfv7899ql403s6v8na4si.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.519956042652-u1gcgqmt6lrmfv7899ql403s6v8na4si</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>519956042652-5oriqt1n539dcr2bsrbgurt060lo55us.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyACcg5fV2AGRXmjQdUdfyV7kzmcNAeF2yE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>519956042652</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.matithemati.newsApp</string>
+	<key>PROJECT_ID</key>
+	<string>news-app-c549e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>news-app-c549e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:519956042652:ios:68ed606c0b7258fef6ae59</string>
+</dict>
+</plist>
